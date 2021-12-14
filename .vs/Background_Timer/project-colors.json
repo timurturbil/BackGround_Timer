@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3e96b25-fa1d-4d9b-906f-684448c343cd": {
+      "ProjectGuid": "e3e96b25-fa1d-4d9b-906f-684448c343cd",
+      "DisplayName": "Background_Timer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

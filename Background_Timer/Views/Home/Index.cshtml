@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Wsselcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+     <button type="button" id="btnScore"
+                onclick="startTimer()">Start Timer</button>
+     <button type="button" id="btnScore"
+                onclick="stopTimer()">Stop Timer</button>
+</div>
+
+<script>
+function startTimer() {
+    $.ajax({
+        type: "POST",
+        url: "/Home/StartTimer",       
+        async: true,
+        success: function (msg) {
+            ServiceSucceeded(msg);
+        },
+        error: function () {
+            return "error";
+        }
+    });
+};
+function stopTimer() {
+    $.ajax({
+        type: "POST",
+        url: "/Home/StopTimer1",       
+        async: true,
+        success: function (msg) {
+            ServiceSucceeded(msg);
+        },
+        error: function () {
+            return "error";
+        }
+    });
+};
+</script>
+
