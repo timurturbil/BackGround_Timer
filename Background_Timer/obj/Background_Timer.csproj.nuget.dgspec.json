@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timur.turbil\\Desktop\\basic\\C-sharp\\Background_Timer\\Background_Timer\\Background_Timer.csproj": {}
+    "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\Background_Timer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timur.turbil\\Desktop\\basic\\C-sharp\\Background_Timer\\Background_Timer\\Background_Timer.csproj": {
+    "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\Background_Timer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timur.turbil\\Desktop\\basic\\C-sharp\\Background_Timer\\Background_Timer\\Background_Timer.csproj",
+        "projectUniqueName": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\Background_Timer.csproj",
         "projectName": "Background_Timer",
-        "projectPath": "C:\\Users\\timur.turbil\\Desktop\\basic\\C-sharp\\Background_Timer\\Background_Timer\\Background_Timer.csproj",
-        "packagesPath": "C:\\Users\\timur.turbil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timur.turbil\\Desktop\\basic\\C-sharp\\Background_Timer\\Background_Timer\\obj\\",
+        "projectPath": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\Background_Timer.csproj",
+        "packagesPath": "C:\\Users\\timur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\timur.turbil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\timur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "net6.0": {
