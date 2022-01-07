@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\Background_Timer.csproj": {}
+    "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\BackGround_Timer\\Background_Timer\\Background_Timer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\Background_Timer.csproj": {
+    "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\BackGround_Timer\\Background_Timer\\Background_Timer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\Background_Timer.csproj",
+        "projectUniqueName": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\BackGround_Timer\\Background_Timer\\Background_Timer.csproj",
         "projectName": "Background_Timer",
-        "projectPath": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\Background_Timer.csproj",
+        "projectPath": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\BackGround_Timer\\Background_Timer\\Background_Timer.csproj",
         "packagesPath": "C:\\Users\\timur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\obj\\",
+        "outputPath": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\BackGround_Timer\\Background_Timer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\timur\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "klq+Kk8OyzLOeClI6/VTZbRdM5G0vPNA0SS8SIH/7+43Tlo7G2HPNgLybuVfgYMMnBspD2cjw4d18SO07If/+w==",
+  "dgSpecHash": "lzwabbCnu40mVBK5J1HvNDW/mv72wxQzsja1Rqd6SmJGgJ3lq4Kt/BLMgJ6MpskrBPvKi2fIV123Lt8TwLy6oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\Background-Services-with-Asp.Net-Core\\Background_Timer\\Background_Timer.csproj",
+  "projectFilePath": "C:\\Users\\timur\\Desktop\\basic\\C-sharp\\BackGround_Timer\\Background_Timer\\Background_Timer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
